@@ -12,5 +12,6 @@ Term project for CSCI-5512 (Artificial Intelligence-II).
  
  Papers:
  > - [Multi-Language Online Handwriting Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7478642)
+ > - [Google AI publication Link](https://ai.google/research/pubs/pub45422)
 
 
